@@ -1,0 +1,267 @@
+{
+  "config": {
+    "port": 3000,
+    "address": "http://localhost",
+    "editor": {
+      "mode": "standalone",
+      "agent": "vscode",
+      "version": "1.0.72"
+    },
+    "dirPath": "./.learn",
+    "configPath": "learn.json",
+    "outputPath": ".learn/dist",
+    "publicPath": "/preview",
+    "publicUrl": "http://localhost:3000",
+    "language": "auto",
+    "grading": "isolated",
+    "exercisesPath": "./",
+    "webpackTemplate": null,
+    "disableGrading": false,
+    "disabledActions": [],
+    "actions": [],
+    "entries": {
+      "html": "index.html",
+      "vanillajs": "index.js",
+      "react": "app.jsx",
+      "node": "app.js",
+      "python3": "app.py",
+      "java": "app.java"
+    },
+    "autoPlay": true,
+    "difficulty": "beginner",
+    "duration": 2,
+    "description": "This is beginners python tutorial",
+    "title": "python-tutorial",
+    "slug": "python-tutorial",
+    "session": 945365471686985200,
+    "translations": []
+  },
+  "currentExercise": "09-excercise",
+  "exercises": [
+    {
+      "position": 0,
+      "path": "01-excercise",
+      "slug": "01-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "01-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "01-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "01-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 1,
+      "path": "02-excercise",
+      "slug": "02-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "02-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "02-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "02-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 2,
+      "path": "03-excercise",
+      "slug": "03-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "03-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "03-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "03-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 3,
+      "path": "04-excercise",
+      "slug": "04-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "04-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "04-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "04-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 4,
+      "path": "05-excercise",
+      "slug": "05-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "05-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "05-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "05-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 5,
+      "path": "06-excercise",
+      "slug": "06-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "06-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "06-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "06-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 6,
+      "path": "07-excercise",
+      "slug": "07-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "07-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "07-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "07-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 7,
+      "path": "08-excercise",
+      "slug": "08-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "08-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "08-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "08-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    },
+    {
+      "position": 8,
+      "path": "09-excercise",
+      "slug": "09-excercise",
+      "translations": {
+        "us": "README.md"
+      },
+      "language": "python3",
+      "entry": "app.py",
+      "title": "09-excercise",
+      "graded": false,
+      "files": [
+        {
+          "path": "09-excercise/app.py",
+          "name": "app.py",
+          "hidden": false
+        },
+        {
+          "path": "09-excercise/README.md",
+          "name": "README.md",
+          "hidden": true
+        }
+      ],
+      "done": false
+    }
+  ]
+}
